@@ -1,2 +1,2 @@
-# Text-file-charset-simple-converter
-Converts txt formats
+# txtconv
+Converts charsets in txt files
